@@ -2,7 +2,7 @@ const axios = require('axios');
 
 const OWNER = 'chifuyu1337';
 const REPO = 'chifuyu1337';
-const TOKEN = 'ваш_токен';
+const TOKEN = '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';
 
 const api = axios.create({
   baseURL: 'https://api.github.com',
